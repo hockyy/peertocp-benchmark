@@ -38,13 +38,13 @@
 
 - [ ] N02 - OT
 - [ ] N02 - CRDT-CS
-- [ ] N02 - CRDT-P2P
+- [x] N02 - CRDT-P2P
 - [ ] N04 - OT
 - [ ] N04 - CRDT-CS
-- [ ] N04 - CRDT-P2P
+- [x] N04 - CRDT-P2P
 - [ ] N08 - OT
 - [ ] N08 - CRDT-CS
-- [ ] N08 - CRDT-P2P
+- [x] N08 - CRDT-P2P
 
 ```
 1667402386
