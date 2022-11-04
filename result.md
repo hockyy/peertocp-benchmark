@@ -37,10 +37,10 @@
 ## Scenario 4
 
 - [ ] N02 - OT
-- [ ] N02 - CRDT-CS
+- [x] N02 - CRDT-CS
 - [x] N02 - CRDT-P2P
 - [ ] N04 - OT
-- [ ] N04 - CRDT-CS
+- [x] N04 - CRDT-CS
 - [x] N04 - CRDT-P2P
 - [ ] N08 - OT
 - [ ] N08 - CRDT-CS
