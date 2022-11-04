@@ -37,11 +37,21 @@
 ## Scenario 4
 
 - [ ] N02 - OT
+
 - [x] N02 - CRDT-CS
+
 - [x] N02 - CRDT-P2P
+
+  
+
 - [ ] N04 - OT
+
 - [x] N04 - CRDT-CS
+
 - [x] N04 - CRDT-P2P
+
+
+
 - [ ] N08 - OT
 - [ ] N08 - CRDT-CS
 - [x] N08 - CRDT-P2P
@@ -85,9 +95,9 @@ scpd 34.101.220.136 peer-8
 
 
 
-netd 34.128.119.200 1667544480 peer-1
-netd 34.101.227.234 1667544480 peer-2
-netd 34.143.155.91 1667544480 crdt-ws
+netd 34.128.119.200 1667545140 peer-1
+netd 34.101.227.234 1667545140 peer-2
+netd 34.143.155.91 1667545140 crdt-ws
 
 scpd 34.128.119.200 peer-1
 scpd 34.101.227.234 peer-2
