@@ -1,6 +1,7 @@
 [2022-11-04 06:07:46.147] [info]  Inserting test for 3635372470
 [2022-11-04 06:07:46.151] [info]  logID is 836987d3-0fa5-4b57-961c-c6d7988842a3
 [2022-11-04 06:09:00.003] [info]  Scenario Four - Test Start
+[2022-11-04 06:09:01.832] [info]  spawning e6cd55dd-c40f-40da-9fad-dd45ac442dae
 [2022-11-04 06:09:01.832] [info]  shellProcess,17c073d0-6b98-4198-8ee3-18c32fddb728,6
 [2022-11-04 06:09:01.838] [info]  shellProcess,a0c7def6-a1ce-49a4-bfee-b2a59429cec7,4
 [2022-11-04 06:09:01.870] [info]  shellProcess,e6cd55dd-c40f-40da-9fad-dd45ac442dae,2
