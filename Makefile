@@ -1,2 +1,2 @@
-make pic:
+pic:
 	junix -f benchmark-vis.ipynb -o  pic/
